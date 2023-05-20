@@ -38,6 +38,7 @@ return(
     <button className='btn btn-danger' onClick={()=>dispatch('decrement')}>-</button>
       {count}
     <button className='btn btn-success'  onClick={()=>dispatch('increment')}>+</button>
+    <button className='btn btn-primary'>Buy</button>
 </div>
 
 </div>
