@@ -41,7 +41,6 @@ return(
     <button className='btn btn-primary'>Buy</button>
 </div>
 
-</div>
 </>
 )
 }

@@ -1,7 +1,7 @@
 import image1 from "./apples-on-a-tree-branch.webp"
 import image2 from "./pears-28f8900.jpg"
 import image3 from "./whole-and-slices-watermelon.webp"
-export  const fruitsData = [
+export  const  fruitsData = [
     {
      id: 1,
      fruitName: "Apple",
